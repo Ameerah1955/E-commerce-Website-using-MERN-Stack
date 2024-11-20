@@ -1,0 +1,10 @@
+npm install
+bcryptjs encrypt pass
+dotenv cridential informaation
+express
+express-async-handler errror handling
+jsonwebtoken generate tokan
+mongoose  database
+morgan 
+concurrenctly nodemon
+
